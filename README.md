@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 # ---------------------------------------------------------
 
 data = {
-    'Name': ['Amit', 'Ravi', 'Neha', 'Priya', 'Karan',
+    'Name': ['Amit', 'Ram', 'Neha', 'Priya', 'Karan',
              'Sneha', 'Arjun', 'Pooja', 'Vikas', 'Anjali'],
 
     'Year': ['1st', '1st', '1st', '2nd', '2nd',
